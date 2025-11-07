@@ -12,7 +12,7 @@ The project fulfills the requirements for the **Predictive Analysis** course, re
 
 1.  **Regression:** Predict the **`energy_consumed`** (Joules) for a given data transmission based on factors like device, protocol, distance, and environment.
 2.  **Classification:** Predict the binary outcome of **`transmission_success`** (Success/Failure) to identify reliable communication setups.
-3.  **Clustering and Regressing:** Segment data based on their behavior and applying Linear Regression and comparing values.
+3.  **Clustering and Regression:** Segment data based on their behavior and applying Linear Regression and comparing values.
 
 ---
 
